@@ -6,9 +6,8 @@ It is purely intended for front-end projects, and should not be used for trying 
 
 To use it:
 
-Dowload the `helper.js` file and upload it to your project. We'll assume it is in the _js_ directory.<br>
 In the `<head>` of your web page, place the following line:<br>
-`<script src="js/helper.js"></script>`<br>
+`<script src="https://code-institute-org.github.io/key-helper/helper.js"></script>`<br>
 To create an obfuscated version of your key, put the following code in your main JavaScript file:<br>
 ```javascript
 let API_KEY = "yourAPIkey";
